@@ -1,0 +1,55 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.so
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Config perso (recreee au lancement)
+config.json
+state.json
+collections.json
+playlists.json
+
+# ROMs et BIOS (JAMAIS sur GitHub)
+roms/*
+!roms/.gitkeep
+*.chd
+*.bin
+*.cue
+*.iso
+*.smc
+*.sfc
+*.nes
+*.gba
+*.nds
+*.3ds
+*.cci
+*.zip
+
+# Assets copyrightes
+covers/*
+!covers/.gitkeep
+descriptions/*
+!descriptions/.gitkeep
+assets/intros/
+assets/gameplay/
+assets/consoles/
+assets/fonts/
+
+# RetroArch / Azahar (lourds, installes separement)
+RetroArch/
+Azahar/
+
+# Sauvegardes
+saves_backup/
+
+# OS
+.DS_Store
+Thumbs.db
