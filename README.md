@@ -10,7 +10,7 @@ Un launcher multi-consoles pour emulateurs retro.
 
 ## Installation
 
-    git clone https://github.com/n3xus/lunar-launcher.git
+    git clone https://github.com/n3xus454/lunar-launcher.git
     cd lunar-launcher
     pip install -r requirements.txt
     python launcher.py
@@ -23,3 +23,4 @@ Tu dois posseder legalement les jeux que tu utilises.
 ## Licence
 
 MIT - voir le fichier LICENSE.
+
