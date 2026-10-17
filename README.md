@@ -4,6 +4,8 @@ Un launcher multi-consoles pour emulateurs retro, avec une interface moderne et 
 
 ![Screenshot](docs/screenshot.png)
 
+![Demo](docs/demo.gif)
+
 ## Fonctionnalites
 
 - 🎮 Multi-consoles : PS1, PS2, SNES, NES, Genesis, GBA, Arcade
