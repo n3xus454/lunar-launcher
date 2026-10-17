@@ -1,5 +1,7 @@
 ﻿# Lunar Launcher
 
+> **Note :** Ce projet est actuellement en cours de développement. Certaines fonctionnalités peuvent être incomplètes ou instables. Vos retours sont les bienvenus !
+
 Un launcher multi-consoles pour emulateurs retro, avec une interface moderne et personnalisable.
 
 ![Screenshot](docs/screenshot.png)
@@ -52,3 +54,4 @@ MIT - voir le fichier LICENSE.
 ## Contribution
 
 Les contributions sont bienvenues ! Lis CONTRIBUTING.md avant de soumettre une PR.
+
